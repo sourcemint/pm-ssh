@@ -1,9 +1,9 @@
 {
-	"uid": "https://github.com/sourcemint/pm-ssh/",
-	"name": "sourcemint-pm-ssh",
-	"version": "0.1.0",
+    "uid": "https://github.com/sourcemint/pm-ssh/",
+    "name": "sourcemint-pm-ssh",
+    "version": "0.1.1",
     "pm": "npm",
-	"dependencies": {
+    "dependencies": {
         "sourcemint-util-js": "0.1.x"
     }
 }
